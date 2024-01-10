@@ -1,0 +1,8 @@
+# CLI Development Tracker
+    Date: 10 Jan 2024
+    
+# This project I am building for practice and for fun to understand the fundamentals of GoLang to get hands on practice 
+
+    -> Created a new branch called development.
+    -> Created a new file called main.go as a standard naming 
+    -> Created a new file called go.mod to manage all the dependencies 
